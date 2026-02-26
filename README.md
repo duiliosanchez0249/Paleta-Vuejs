@@ -39,7 +39,7 @@
 ---
 
 ## Autor
-**Roberto Reynoso** Quinto Semestre - Universidad  
+**Roberto Reynoso** Quinto Semestre - Universidad de Guadalajara 
 *Programación para Internet*
 
 ---
